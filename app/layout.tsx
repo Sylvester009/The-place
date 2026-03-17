@@ -1,6 +1,4 @@
 // app/layout.tsx
-// aJWd9hSteUPLh9dM
-// mongodb+srv://samsylvester09_db_user:aJWd9hSteUPLh9dM@theplacecluster.hyaowr5.mongodb.net/
 import type { Metadata } from 'next';
 import './globals.css';
 
